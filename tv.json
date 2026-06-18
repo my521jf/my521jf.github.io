@@ -2731,16 +2731,22 @@
       "url": "https://gitee.com/OscarWilde/itv/raw/master/tv.txt",
       "playerType": 2
     },
+      {
+      "name": "⑤潇雨萌萌",
+      "type": 0,
+      "url": "https://my521jf.github.io/one.txt",
+      "playerType": 2
+   },
     {
-      "name": "⑤直播",
+      "name": "⑥直播",
       "type": 0,
       "url": "https://raw.jsyfhome.dpdns.org/jymyong/jymyong.github.io/refs/heads/main/live/mzs.txt",
       "playerType": 2
     },
     {
-      "name": "⑥潇雨萌萌",
+      "name": "⑦潇雨萌萌原",
       "type": 0,
-      "url": "https://my521jf.github.io/one.txt",
+      "url": "https://mg.tv1288.xyz/8520",
       "playerType": 2
     }
   ],
