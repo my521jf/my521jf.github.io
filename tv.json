@@ -2711,23 +2711,23 @@
       "name": "①NV域名CF直播",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",         
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
       "name": "②订阅直播",
       "type": 0,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=6320786386&sign=036b37e9e5d7e1724e97a92b6a7fd5dce5702dcf102f51360686ed467f6047bcbd900dd6842c204facdaddc8137f94a3a0a2053daa4878bd96f3a4d9c8fc9ab35f87509495f440&auth_token=7ee21037e831ad7453963c9360f92bac",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",             
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
       "name": "③🛰️央视频",
       "type": 0,
       "url": "http://45.192.97.170:10001/live.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",             
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
-    },    
+    },
     {
       "name": "④Guovin直播",
       "type": 0,
@@ -2750,27 +2750,25 @@
       "name": "⑦fnos",
       "type": 0,
       "url": "http://172.16.8.96:7788/",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"，      
       "playerType": 2
     },
     {
       "name": "⑧斗鱼影视",
       "type": 0,
       "url": "https://my521jf.github.io/m3u/douyuys.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"，
-      "playerType": 2      
-    },  
+      "playerType": 2
+    },
     {
       "name": "⑨酒店合集",
       "type": 0,
       "url": "http://45.192.97.170:6001/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },    
+    },
     {
       "name": "⑩NV域名邮箱CF部署",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",          
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     }
   ],
