@@ -2708,7 +2708,7 @@
   ],
   "lives": [
     {
-      "name": "①NV域名邮箱CF部署",
+      "name": "①NV域名CF直播",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
       "playerType": 2
@@ -2757,7 +2757,13 @@
       "playerType": 2
     },
     {
-      "name": "⑨NV域名邮箱CF部署",
+      "name": "⑨斗鱼影视",
+      "type": 0,
+      "url": "https://my521jf.github.io/m3u/douyuys.m3u",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },    
+    {
+      "name": "⑩NV域名邮箱CF部署",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",          
