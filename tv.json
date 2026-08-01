@@ -2750,14 +2750,14 @@
       "playerType": 2
     },
     {
-      "name": "⑦组播合集",
+      "name": "⑧组播合集",
       "type": 0,
       "url": "https://40.tv1288.xyz/",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",    
       "playerType": 2
     },
     {
-      "name": "⑧NV域名邮箱CF部署",
+      "name": "⑨NV域名邮箱CF部署",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",          
