@@ -2750,6 +2750,7 @@
       "name": "⑦fnos",
       "type": 0,
       "url": "http://172.16.8.96:7788/",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"，      
       "playerType": 2
     },
     {
@@ -2757,9 +2758,16 @@
       "type": 0,
       "url": "https://my521jf.github.io/m3u/douyuys.m3u",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"，
+      "playerType": 2      
+    },  
+    {
+      "name": "⑨酒店合集",
+      "type": 0,
+      "url": "http://45.192.97.170:6001/txt",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },    
     {
-      "name": "⑨NV域名邮箱CF部署",
+      "name": "⑩NV域名邮箱CF部署",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",          
