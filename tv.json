@@ -2722,22 +2722,22 @@
       "playerType": 2
     },
     {
-      "name": "③🛰️央视频",
+      "name": "③🛰️备用直播",
       "type": 0,
-      "url": "http://45.192.97.170:10001/live.m3u",
+      "url": "https://123.tv1288.xyz/jav.txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
-      "name": "④Guovin直播",
+      "name": "④潇雨TV",
       "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt",
+      "url": "https://mg.tv1288.xyz/xymm",
       "playerType": 2
     },
     {
-      "name": "⑤OWTV8",
+      "name": "⑤猫影视TV",
       "type": 0,
-      "url": "https://gitee.com/OscarWilde/itv/raw/master/tv.txt",
+      "url": "http://rihou.cc:555/gggg.nzk",
       "playerType": 2
     },
     {
@@ -2753,9 +2753,9 @@
       "playerType": 2
     },
     {
-      "name": "⑧斗鱼影视",
+      "name": "⑧YY影视",
       "type": 0,
-      "url": "https://my521jf.github.io/m3u/douyuys.m3u",
+      "url": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
       "playerType": 2
     },
     {
