@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Alist",
-      "name": "🌟小雅┃高清",
+      "name": "小雅┃高清",
       "type": 3,
       "api": "csp_AListSh",
       "jar": "https://kds.jsyfcode.us.ci/libs/xiaoya_proxy.jar;md5;3bbe46a882a5ad8afdaf1c4416a7fb90",
