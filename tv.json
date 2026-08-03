@@ -2722,28 +2722,28 @@
       "playerType": 2
     },
     {
-      "name": "③🛰️备用直播",
+      "name": "③TVtxt直播",
+      "type": 0,
+      "url": "https://txt.jsyfcode.ccwu.cc/xymm",
+      "playerType": 2
+    },
+    {
+      "name": "④TVzubo直播",
+      "type": 0,
+      "url": "https://zubu.jsyfcode.ccwu.cc",
+      "playerType": 2
+    },
+    {
+      "name": "⑤🛰️备用直播",
       "type": 0,
       "url": "https://123.tv1288.xyz/jav.txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
-      "name": "④潇雨TV",
-      "type": 0,
-      "url": "https://mg.tv1288.xyz/xymm",
-      "playerType": 2
-    },
-    {
-      "name": "⑤猫影视TV",
+      "name": "⑥猫影视TV",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
-      "playerType": 2
-    },
-    {
-      "name": "⑥migu_video直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt",
       "playerType": 2
     },
     {
