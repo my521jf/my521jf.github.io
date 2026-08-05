@@ -2697,16 +2697,14 @@
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/drpy.js"
     },
-    {
-     "key": "点我切源",
+    {   
+      "key": "cc",
       "name": "🏅马氏一族快乐每一天🏅",
       "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    }
+      "api": "csp_YGP",
+      "playerType": 2,
+      "searchable": 0
+    }      
   ],
   "lives": [
     {
