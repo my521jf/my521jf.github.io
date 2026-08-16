@@ -2710,7 +2710,7 @@
     {
       "name": "①NV域名CF直播",
       "type": 0,
-      "url": "https://mg.jsyfcode.dpdns.org/xymm",
+      "url": "https://mg.jsyfcode.dpdns.org/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
