@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Alist",
-      "name": "小雅┃高清",
+      "name": "🌟小雅┃高清",
       "type": 3,
       "api": "csp_AListSh",
       "jar": "https://kds.jsyfcode.us.ci/libs/xiaoya_proxy.jar;md5;3bbe46a882a5ad8afdaf1c4416a7fb90",
@@ -725,7 +725,7 @@
     {
       "name": "萌萌TV",
       "type": 0,
-      "url": "https://mg.tv1288.xyz/xymm",
+      "url": "https://mg.tv1288.xyz/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
@@ -780,6 +780,12 @@
       "name": "🛰️央视频",
       "type": 0,
       "url": "http://45.192.97.170:10001/live.m3u",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
+    {
+      "name": "央视官网",
+      "type": 0,
+      "url": "https://123.tv1288.xyz/jav.txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
