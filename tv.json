@@ -2697,75 +2697,81 @@
       "api": "./json/lib/drpy2.min.js",
       "ext": "./json/js/drpy.js"
     },
-    {   
+    {
       "key": "cc",
       "name": "🏅马氏一族快乐每一天🏅",
       "type": 3,
       "api": "csp_YGP",
       "playerType": 2,
       "searchable": 0
-    }      
+    }
   ],
   "lives": [
     {
-      "name": "①NV域名CF直播",
+      "name": "⑴NV域名CF直播",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
-      "name": "②订阅直播",
-      "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6320786386&sign=036b37e9e5d7e1724e97a92b6a7fd5dce5702dcf102f51360686ed467f6047bcbd900dd6842c204facdaddc8137f94a3a0a2053daa4878bd96f3a4d9c8fc9ab35f87509495f440&auth_token=7ee21037e831ad7453963c9360f92bac",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
-      "playerType": 2
-    },
-    {
-      "name": "③TVtxt直播",
+      "name": "⑵TVtxt直播",
       "type": 0,
       "url": "https://txt.jsyfcode.ccwu.cc/xymm",
       "playerType": 2
     },
     {
-      "name": "④TVzubo直播",
+      "name": "⑶TVzubo直播",
       "type": 0,
       "url": "https://zubu.jsyfcode.ccwu.cc",
       "playerType": 2
     },
     {
-      "name": "⑤🛰️备用直播",
+      "name": "⑷🛰️备用直播",
       "type": 0,
       "url": "http://45.192.97.170:10001/live.m3u",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
-      "name": "⑥猫影视TV",
+      "name": "⑸订阅直播",
+      "type": 0,
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6320786386&sign=036b37e9e5d7e1724e97a92b6a7fd5dce5702dcf102f51360686ed467f6047bcbd900dd6842c204facdaddc8137f94a3a0a2053daa4878bd96f3a4d9c8fc9ab35f87509495f440&auth_token=7ee21037e831ad7453963c9360f92bac",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
+      "playerType": 2
+    },
+    {
+      "name": "⑹猫影视TV",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
       "playerType": 2
     },
     {
-      "name": "⑦fnos",
-      "type": 0,
-      "url": "http://172.16.8.96:7788/",
-      "playerType": 2
-    },
-    {
-      "name": "⑧3w部",
-      "type": 0,
-      "url": "https://my521jf.github.io/txt/3wb.txt",
-      "playerType": 2
-    },
-    {
-      "name": "⑨酒店合集",
+      "name": "⑺酒店合集",
       "type": 0,
       "url": "http://45.192.97.170:6001/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
-      "name": "⑩NV域名邮箱CF部署",
+      "name": "⑻3w部",
+      "type": 0,
+      "url": "https://my521jf.github.io/txt/3wb.txt",
+      "playerType": 2
+    },
+    {
+      "name": "⑼YY影视",
+      "type": 0,
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "⑽fnos",
+      "type": 0,
+      "url": "http://172.16.8.96:7788/",
+      "playerType": 2
+    },
+    {
+      "name": "⑾NV域名邮箱CF部署",
       "type": 0,
       "url": "https://mg.jsyfcode.dpdns.org/xymm",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
