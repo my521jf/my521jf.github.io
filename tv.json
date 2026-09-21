@@ -27,6 +27,31 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "天天",
+      "name": "🧿┃天天┃秒播",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },    
+    {
+      "key": "猫头鹰",
+      "name": "🦉┃夜猫┃秒播",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "http://103.217.190.91:9999",
+        "key": "zxPtEUDGVllIUhDB",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },    
+    {
       "key": "农民",
       "name": "🧿┃农民┃影视",
       "type": 3,
@@ -38,17 +63,6 @@
         "编码": "UTF-8",
         "分类url": "https://vip.wwgz.cn:5200/;;!H"
       }
-    },
-    {
-      "key": "天天",
-      "name": "🧿┃天天┃秒播",
-      "type": 3,
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "Acfun",
@@ -70,13 +84,6 @@
       },
       "timeout": 10
     },
-    {
-      "key": "爱看剧",
-      "name": "👓️┃爱看┃影视",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/56ac2028f2dd8336dccad017927cbef1.py",
-      "ext": "http://43.248.117.123:4680"
-    },    
     {
       "key": "iqiyizyapi.com",
       "name": "🎬-爱奇艺",
