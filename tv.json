@@ -2771,7 +2771,13 @@
       "playerType": 2
     },
     {
-      "name": "⑾体育赛事",
+      "name": ⑾xymm",
+      "type": 0,
+      "url": "https://xymm.1000s.dpdns.org/txt",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },    
+    {
+      "name": "⑿体育赛事",
       "type": 0,
       "url": "https://xymm.tv12.xyz/live.txt=876305",
       "playerType": 2
