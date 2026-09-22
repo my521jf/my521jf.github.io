@@ -2842,6 +2842,24 @@
       "type": 0,
       "url": "https://xymm.1000s.dpdns.org/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },  
+    {
+      "name": "萌萌TV",
+      "type": 0,
+      "url": "http://45.192.97.170:5211/141864",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
+    {
+      "name": "体育赛事",
+      "type": 0,
+      "url": "http://45.192.97.170:5211/789123",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
+    {
+      "name": "猫影视TVB",
+      "type": 0,
+      "url": "http://45.192.97.170:5211/789456",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },    
     {
       "name": "⑿体育赛事",
