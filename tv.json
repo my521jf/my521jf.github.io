@@ -1635,9 +1635,9 @@
       "playerType": 2
     },
     {
-      "name": "⑺酒店合集",
+      "name": "⑺ONE直播",
       "type": 0,
-      "url": "http://45.192.97.170:6001/txt",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/one.txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
