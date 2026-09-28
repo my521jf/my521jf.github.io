@@ -1609,20 +1609,20 @@
     {
       "name": "⑴NV域名CF直播",
       "type": 0,
-      "url": "https://mg.jsyfcode.dpdns.org/txt",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://mg.jsyfcode.dpdns.org/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
     {
       "name": "⑵TVtxt直播",
       "type": 0,
-      "url": "https://txt.jsyfcode.ccwu.cc/xymm",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://txt.jsyfcode.ccwu.cc/xymm",
       "playerType": 2
     },
     {
       "name": "⑶TVzubo直播",
       "type": 0,
-      "url": "https://zubu.jsyfcode.ccwu.cc",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://zubu.jsyfcode.ccwu.cc",
       "playerType": 2
     },
     {
