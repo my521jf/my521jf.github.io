@@ -42,17 +42,6 @@
       }
     },
     {
-      "key": "maotv直播",
-      "name": "📺︎maotv直播",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./json/api/maotv.js",
-      "ext": "./json/api/maotv.json"
-    },
-    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
@@ -61,8 +50,19 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.jsyfhome.dpdns.org/https://my521jf.github.io/json/zubo.json"
-    },    
+      "ext": "https://ghproxy.jsyfhome.dpdns.org/https://myjf.indevs.in/mytv/api/zubo.json"
+    },        
+    {
+      "key": "maotv直播",
+      "name": "📺︎maotv直播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./json/api/maotv.js",
+      "ext": "https://ghproxy.jsyfhome.dpdns.org/https://myjf.indevs.in/mytv/api/maotv.json"
+    },
     {
       "key": "iqiyizyapi.com",
       "name": "🎬-爱奇艺-",
