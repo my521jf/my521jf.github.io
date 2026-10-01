@@ -1607,16 +1607,16 @@
   ],
   "lives": [
     {
-      "name": "⑴IPTV Center直播",
+      "name": "⑴CF域名TXT直播",
       "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/https://xymm.1000s.dpdns.org/txt",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://txt.jsyfcode.ccwu.cc",
+      "playerType": 2
     },
     {
-      "name": "⑵TVtxt直播",
+      "name": "⑵IPTV Center直播",
       "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/https://txt.jsyfcode.ccwu.cc/xymm",
-      "playerType": 2
+      "url": "https://ghproxy.jsyfhome.dpdns.org/https://xymm.1000s.dpdns.org/377497/txt",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
       "name": "⑶TVzubo直播",
@@ -1627,7 +1627,7 @@
     {
       "name": "⑷🛰️备用直播",
       "type": 0,
-      "url": "http://45.192.97.170:10001/live.m3u",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/http://45.192.97.170:10001/live.m3u",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
@@ -1678,13 +1678,7 @@
     {
       "name": "萌萌TV",
       "type": 0,
-      "url": "http://45.192.97.170:5211/141864",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "体育赛事",
-      "type": 0,
-      "url": "http://45.192.97.170:5211/789123",
+      "url": "https://ghproxy.jsyfhome.dpdns.org/http://45.192.97.170:5211/141864",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
@@ -1692,11 +1686,17 @@
       "type": 0,
       "url": "http://45.192.97.170:5211/789456",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },    
+    {
+      "name": "体育赛事",
+      "type": 0,
+      "url": "http://45.192.97.170:5211/377497",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
       "name": "⑿体育赛事",
       "type": 0,
-      "url": "https://xymm.tv12.xyz/live.txt=876305",
+      "url": "https://xymm.tv12.xyz/live.txt=789123",
       "playerType": 2
     }
   ],
