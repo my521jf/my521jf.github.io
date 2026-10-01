@@ -1669,30 +1669,36 @@
       "playerType": 2
     },
     {
-      "name": "⑾NV域名CF直播",
-      "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/https://mg.jsyfcode.dpdns.org/txt",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
-      "playerType": 2
-    },
-    {
-      "name": "萌萌TV",
+      "name": "⑾萌萌TV",
       "type": 0,
       "url": "http://45.192.97.170:5211/141864",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
-      "name": "猫影视TVB",
+      "name": "易发TV",
       "type": 0,
-      "url": "http://45.192.97.170:5211/789456",
+      "url": "http://45.192.97.170:5211/789741",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },    
+    },
+    {
+      "name": "酒店合集",
+      "type": 0,
+      "url": "http://45.192.97.170:6001/txt",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
+
+    {
+      "name": "🛰️央视频",
+      "type": 0,
+      "url": "http://45.192.97.170:10001/live.m3u",
+      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+    },
     {
       "name": "体育赛事",
       "type": 0,
-      "url": "http://45.192.97.170:5211/377497",
+      "url": "http://45.192.97.170:5211/789123",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
+    },    
     {
       "name": "⑿体育赛事",
       "type": 0,
