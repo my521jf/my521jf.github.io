@@ -1607,13 +1607,13 @@
   ],
   "lives": [
     {
-      "name": "⑵IPTV Center直播",
+      "name": "⑴IPTV Center直播",
       "type": 0,
       "url": "https://ghproxy.jsyfhome.dpdns.org/https://xymm.1000s.dpdns.org/377497/txt",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },    
     {
-      "name": "⑴CF域名TXT直播",
+      "name": "⑵CF域名TXT直播",
       "type": 0,
       "url": "https://ghproxy.jsyfhome.dpdns.org/https://txt.jsyfcode.ccwu.cc",
       "playerType": 2
