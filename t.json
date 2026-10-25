@@ -442,8 +442,7 @@
       "name": "KataBump部署直播",
       "type": 0,
       "url": "http://145.239.65.118:20287/all.m3u",
-      "epg": "https://epg.zsdc.eu.org/t.xml.gz",
-      "logo": ""
+      "playerType": 2
     }
   ],
   "parses": [],
