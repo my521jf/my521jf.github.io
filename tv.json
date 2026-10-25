@@ -5,8 +5,9 @@
       "key": "drpy_js_豆瓣",
       "name": "🐮马氏一族观影愉快🐮",
       "type": 3,
-      "api": "./json/lib/drpy2.min.js",
-      "ext": "./json/js/drpy.js"
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1
     },
     {
       "key": "柠檬",
