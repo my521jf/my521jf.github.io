@@ -10,6 +10,15 @@
       "ext": "./json/js/drpy.js"
     },
     {
+      "key": "py_douban",
+      "name": "豆瓣[py]",
+      "type": 3,
+      "api": "./json/lib/douban.py",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0
+    }, 
+    {
       "key": "柠檬",
       "name": "🍋┃柠檬┃秒播",
       "type": 3,
