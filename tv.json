@@ -1617,15 +1617,15 @@
   ],
   "lives": [
     {
-      "name": "⑴CF域名TXT直播",
+      "name": "⑴NV域名YSP直播",
       "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/https://txt.jsyfcode.ccwu.cc",
+      "url": "https://mg.jsyfcode.dpdns.org/txt",
       "playerType": 2
     },
     {
       "name": "⑵KataBump部署直播",
       "type": 0,
-      "url": "http://145.239.65.118:20287/all.m3u",
+      "url": "http://145.239.65.119:20218/all.m3u",
       "playerType": 2
     },
     {
@@ -1635,9 +1635,9 @@
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },  
     {
-      "name": "⑷🛰️备用直播",
+      "name": "⑷🛰️CF域名TXT直播",
       "type": 0,
-      "url": "https://ghproxy.jsyfhome.dpdns.org/http://45.192.97.170:10001/live.m3u",
+      "url": "https://txt.jsyfcode.ccwu.cc/",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
       "playerType": 2
     },
@@ -1681,7 +1681,7 @@
     {
       "name": "⑾萌萌TV",
       "type": 0,
-      "url": "http://45.192.97.170:5211/141864",
+      "url": "http://45.192.97.170:5211/233747",
       "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
     },
     {
