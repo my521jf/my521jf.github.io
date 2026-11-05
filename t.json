@@ -441,7 +441,7 @@
     {
       "name": "KataBump部署直播",
       "type": 0,
-      "url": "http://145.239.65.118:20287/all.m3u",
+      "url": "http://145.239.65.119:20218/all.m3u",
       "playerType": 2
     }
   ],
