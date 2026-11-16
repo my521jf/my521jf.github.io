@@ -2,6 +2,20 @@
   "spider": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
   "wallpaper": "",
   "sites": [
+     {
+      "key": "douban",
+      "name": "🎬豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
+    },   
     {
       "key": "drpy_js_豆瓣",
       "name": "🐮马氏一族观影愉快🐮",
