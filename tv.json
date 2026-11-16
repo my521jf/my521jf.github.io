@@ -1,5 +1,5 @@
 {
-  "spider": "/json/jar/spider-kaixin.jar",
+  "spider": "https://cdn.jsdelivr.net/gh/my521jf/my521jf.github.io@main/spider-kaixin.jar",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
