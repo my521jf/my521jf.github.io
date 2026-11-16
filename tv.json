@@ -13,7 +13,7 @@
       "key": "py_douban",
       "name": "豆瓣[py]",
       "type": 3,
-      "api": "./json/lib/douban.py",
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/json/lib/douban.py",
       "changeable": 0,
       "searchable": 0,
       "filterable": 0
