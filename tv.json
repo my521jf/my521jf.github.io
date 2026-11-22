@@ -1,5 +1,5 @@
 {
-  "spider": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
+  "spider": "https://ghproxy.jsyfhome.dpdns.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/json/jar/spider-kaixin.jar",
   "wallpaper": "https://www.loliapi.com/acg/",
   "sites": [
     {
@@ -13,7 +13,7 @@
       "key": "py_douban",
       "name": "豆瓣[py]",
       "type": 3,
-      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/my521jf/my521jf.github.io/refs/heads/main/json/lib/douban.py",
+      "api": "https://ghproxy.jsyfhome.dpdns.org/https://my521jf.github.io/json/lib/douban.py",
       "changeable": 0,
       "searchable": 0,
       "filterable": 0
@@ -53,10 +53,10 @@
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "./json/js/zubo.min.js",
+      "api": "https://my521jf.github.io/json/js/zubo.min.js",
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.jsyfhome.dpdns.org/https://myjf.indevs.in/mytv/api/zubo.json"
+      "ext": "https://my521jf.github.io/json/zubo.json"
     },
     {
       "key": "maotv直播",
@@ -64,8 +64,8 @@
       "type": 3,
       "searchable": 0,
       "changeable": 1,
-      "api": "./json/api/maotv.js",
-      "ext": "https://ghproxy.jsyfhome.dpdns.org/https://myjf.indevs.in/mytv/api/maotv.json"
+      "api": "https://my521jf.github.io/json/api/maotv.js",
+      "ext": "https://my521jf.github.io/json/api/maotv.json"
     },
     {
       "key": "mtzy.me",
